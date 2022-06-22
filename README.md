@@ -1,3 +1,3 @@
 # LeetcodeSolutions
 A place to store all of my leetcode solutions<br>
-My leetcode profile: https://leetcode.com/harsh-rajpal/
+My leetcode profile:<code> https://leetcode.com/harsh-rajpal/</code>
