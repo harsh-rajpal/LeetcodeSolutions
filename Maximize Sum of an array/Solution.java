@@ -1,5 +1,3 @@
-package Maximize Sum of an array;
-
 import java.util.*;
 import java.io.*;
 class Solution{
