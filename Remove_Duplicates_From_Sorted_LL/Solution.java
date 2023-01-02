@@ -1,5 +1,4 @@
 package Remove_Duplicates_From_Sorted_LL;
-
  class Solution {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode current = head;

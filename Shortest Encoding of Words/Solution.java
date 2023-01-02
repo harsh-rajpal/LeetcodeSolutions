@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int minimumLengthEncoding(String[] W) {
         Set<String> set = new HashSet<>(Arrays.asList(W));
